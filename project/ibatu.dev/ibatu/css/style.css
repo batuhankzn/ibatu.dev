@@ -1,0 +1,48 @@
+body {
+	background-color: #202529 !important; 
+}
+
+
+.name {
+	color:#ffff;
+	position:relative;
+	text-align: center;
+	padding-left: 0px;
+	word-spacing: 5px;
+	letter-spacing: 0.3cm;
+	padding-top: 100px;
+	margin: auto;
+
+}
+
+.menu{
+	padding-top: 30px;
+	padding-left: 155px;
+
+
+
+}
+ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+
+}
+li{
+	float:center;
+}
+
+li a {
+	display: block;
+	color: white;
+	height:50px;
+	width: 90px;
+	text-align: center;
+	line-height:50px;
+	text-decoration:none;
+	transition:all .3s ease-in;
+}
+li a:hover{
+	color: white;
+	background-color:#536162;
+}
