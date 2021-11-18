@@ -1,0 +1,6 @@
+#psd
+*.psd
+
+#css
+*css/
+*assets/
